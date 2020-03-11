@@ -7,10 +7,6 @@ Date | Address | Order Amount | Tip Amount | Age | Time | Tip Included | Dog Own
 
 =======================================================
 
-``` r
-p1 = ggplot(mtcars, aes(mpg, wt, color = cyl)) + geom_point()
-ggplotly(p1)
-```
 
 ![](Delivery-Analysis_files/figure-markdown_github/unnamed-chunk-3-1.png)
 
